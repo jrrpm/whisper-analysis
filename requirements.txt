@@ -1,0 +1,6 @@
+transformers
+torch
+librosa
+matplotlib
+dtw-python
+numpy
